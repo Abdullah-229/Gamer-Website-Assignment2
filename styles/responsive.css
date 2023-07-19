@@ -4,7 +4,6 @@
         flex-direction: column;
         padding:0px;
         justify-content: center;
-        height:100%;
     }
     .banner-description{
         justify-content: center;
@@ -19,10 +18,19 @@
     /* main section */
     /* play section */
     .play{
-        flex-direction: column;
+        flex-direction: column-reverse;
         justify-content: center;
         padding:0px;
     }
+    .play img{
+        max-width:550px;
+        padding:0px;
+        margin:0px;
+    }
+    .play-title{
+        margin:50px auto;
+    }
+    
 
 }
 
