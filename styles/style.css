@@ -72,6 +72,7 @@ nav{
     padding:40px 200px;
     background: url("/images/Group\ 14.png");
     background-repeat: no-repeat;
+    background-size: 50% 100%;
 
 }
 
@@ -354,4 +355,5 @@ footer .banner-title{
     color: rgba(255, 255, 255, 0.60);
     font-size: 16px;
     font-weight: 500;
+    padding-bottom: 30px;
 }
